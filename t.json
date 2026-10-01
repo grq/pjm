@@ -1,0 +1,8 @@
+{
+  "client_id": "https://tvoj-domen.example/upwork-client.json",
+  "client_name": "pjm",
+  "redirect_uris": ["http://localhost:8080/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
