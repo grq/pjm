@@ -1,5 +1,5 @@
 {
-  "client_id": "https://tvoj-domen.example/upwork-client.json",
+  "client_id": "https://grq.github.io/pjm/t.json",
   "client_name": "pjm",
   "redirect_uris": ["http://localhost:8080/callback"],
   "grant_types": ["authorization_code", "refresh_token"],
